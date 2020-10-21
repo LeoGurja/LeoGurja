@@ -111,22 +111,18 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
 
-  <img 
-    align="left" 
-    alt="LeoGurja's GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=LeoGurja&show_icons=true&hide_border=true&count_private=true" 
-  />
-
-  <img 
-    align="left" 
-    alt="LeoGurja's GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGurja&hide_border=true&count_private=true" 
-  />
-
-</details>
+<img 
+  align="left" 
+  alt="LeoGurja's GitHub Stats" 
+  src="https://github-readme-stats.vercel.app/api?username=LeoGurja&show_icons=true&hide_border=true&count_private=true" 
+/>
+<img 
+  align="left" 
+  alt="LeoGurja's GitHub Stats" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGurja&hide_border=true&count_private=true" 
+/>
 
 [twitter]: https://twitter.com/LeoGurja
 [linkedin]: https://linkedin.com/in/leonardogurgel
