@@ -11,14 +11,7 @@
 
 <br />
 
-### Languages and Tools:
-
-<img 
-  align="left" 
-  alt="Visual Studio Code" 
-  width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" 
-/>
+### Application:
 <img 
   align="left" 
   alt="HTML5" 
@@ -45,9 +38,9 @@
 />
 <img
   align="left"
-  alt="Webpack"
+  alt="React"
   width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
 />
 <img
   align="left"
@@ -63,22 +56,13 @@
 />
 <img
   align="left"
-  alt="React"
-  width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-/>
-<img
-  align="left"
-  alt="Rust"
-  width="26px"
-  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/rust/rust.png"
-/>
-<img
-  align="left"
   alt="Node.js"
   width="26px"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
 />
+<br />
+
+### Data:
 <img
   align="left"
   alt="MySQL"
@@ -99,13 +83,62 @@
 />
 <img
   align="left"
-  alt="Terminal"
-  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+  alt="Firebase"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
+/>
+<br />
+
+### DevOps:
+<img
+  align="left"
+  alt="Webpack"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"
 />
 <img
   align="left"
-  alt="`Powershell`"
-  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"
+  alt="Babel"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/babel/babel.png"
+/>
+<img 
+  align="left" 
+  alt="Visual Studio Code" 
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" 
+/>
+<img
+  align="left"
+  alt="Terminal"
+  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+/>
+<br />
+
+### Things I wish to learn:
+<img
+  align="left"
+  alt="Rust"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/rust/rust.png"
+/>
+<img
+  align="left"
+  alt="Kotlin"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/kotlin/kotlin.png"
+/>
+<img
+  align="left"
+  alt="Docker"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/docker/docker.png"
+/>
+<img
+  align="left"
+  alt="Vue.js"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"
 />
 
 <br />
