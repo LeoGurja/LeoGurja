@@ -5,13 +5,15 @@
 ## I'm a Student and Developer!!
 
 ### Connect with me:
+Work in progress!
 
 [<img align="left" alt="LeoGurja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LeoGurja | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Application:
+## Languages and Tools:
+### Application
 <img 
   align="left" 
   alt="HTML5" 
@@ -62,7 +64,7 @@
 />
 <br />
 
-### Data:
+### Data
 <img
   align="left"
   alt="MySQL"
@@ -89,7 +91,7 @@
 />
 <br />
 
-### DevOps:
+### DevOps
 <img
   align="left"
   alt="Webpack"
